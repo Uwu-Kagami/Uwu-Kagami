@@ -2,7 +2,7 @@
 
 ###
 
-<h2 align="left">👋 Education Purpose Developer Only 🐒</h2>
+<h2 align="left">👋 Education Purpose Developer Only </h2>
 
 ###
 
