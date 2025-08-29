@@ -7,8 +7,8 @@
 ###
 
 <div align="center">
-  <img src="https://nirzak-streak-stats.vercel.app/?user=khalilbellil&theme=dark&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khalilbellil&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="stats graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=/Uwu-Kagami&theme=dark&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=/Uwu-Kagami&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="150" alt="stats graph"  />
 
 </div>
 
