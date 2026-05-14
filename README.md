@@ -4,9 +4,9 @@
 
 <div align="center">
 
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Uwu-Kagami&show_icons=true&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Uwu-Kagami&theme=tokyonight" />
 
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Uwu-Kagami&layout=compact&theme=tokyonight&hide_border=true&border_radius=10" />
+  <img height="160" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Uwu-Kagami&theme=tokyonight" />
 
 </div>
 
